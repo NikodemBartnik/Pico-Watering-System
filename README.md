@@ -25,6 +25,7 @@ This project is open source, feel free to build, modify adjust to your needs and
 |   ------- |   ----    | ------------  |
 | Raspberry Pi Pico | https://amzn.to/3O2GBdG | https://bit.ly/3c9K7FP |
 | Solar panel and charger | https://amzn.to/3PqgpLp | https://bit.ly/3yDzbIe |
+| Garden irrigation set | /amzn.to/3uLS3DL | https://bit.ly/3c9sE0m |
 | Battery | https://amzn.to/3ceAIx6 | - |
 | Pump | https://amzn.to/3O74vF0 | https://bit.ly/3z0th5v |
 | Water level sensor | https://amzn.to/3z16nL9 | https://bit.ly/3nVWZSD |
